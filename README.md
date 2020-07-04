@@ -1,6 +1,6 @@
 ## Live Project
 
-Project deploy with Netlify. You can see it on this like (https://competent-snyder-c08dfd.netlify.app/)
+Project deploy with Netlify. You can see it on this link https://competent-snyder-c08dfd.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
